@@ -1,0 +1,15 @@
+.header {
+    background-color: rgb( 33, 37, 41);
+
+}
+
+.header .container{
+    height: 56px;
+    max-width: 1320px;
+
+    color: #fff;
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
